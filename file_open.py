@@ -5,3 +5,4 @@ file_path = os.path.join(current_dir, 'file.txt')           # добавляем
 #element.send_keys(file_path)
 print(current_dir)
 print(file_path)
+print("Ok")
